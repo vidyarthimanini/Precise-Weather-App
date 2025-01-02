@@ -20,7 +20,7 @@ async function fetchWeather() {
         </div>
     `;
   backgroundLayer.style.backgroundImage = "none";
-  cityNameElement.textContent = "WeatherSphere";
+  cityNameElement.textContent = "Mausam4U";
   locationDetailsElement.textContent = "";
   latitudeElement.textContent = "";
   longitudeElement.textContent = "";
